@@ -1,0 +1,35 @@
+READ THIS ENTIRE FILE BEFORE EXECUTING ANYTHING.
+
+Analyze the ENTIRE Nexia repository.
+
+YOU MUST:
+- inspect backend
+- inspect frontend
+- inspect Firebase configs
+- inspect Render configs
+- inspect env vars
+- inspect AI integrations
+- preserve compatibility
+
+AFTER ANALYSIS:
+1. Refactor architecture
+2. Create monorepo
+3. Create Event Engine
+4. Create Tenant Engine
+5. Create Cortex Engine
+6. Create Sentinel Engine
+7. Create Genesis Panel
+8. Create Source Center
+9. Create export system
+10. Create observability
+
+MANDATORY:
+The Source Center MUST:
+- expose all source code
+- export ZIP snapshots
+- export architecture
+- export modules
+- export docs
+
+FINAL GOAL:
+Transform Nexia into a living cognitive operating system.

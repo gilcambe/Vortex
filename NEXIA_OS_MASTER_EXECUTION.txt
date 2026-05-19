@@ -1,0 +1,50 @@
+# NEXIA OS FOUNDATION MASTER FILE
+# VERSION: GENESIS v1.0
+# EXECUTION MODE: FULL SYSTEM GENERATION
+
+READ THE ENTIRE EXISTING NEXIA REPOSITORY BEFORE DOING ANYTHING.
+
+YOU MUST:
+- inspect all existing files
+- inspect Firebase setup
+- inspect Render deployment
+- reuse existing integrations
+- preserve compatibility
+
+PRIMARY OBJECTIVE:
+Transform Nexia into a living cognitive operating system.
+
+MANDATORY:
+Create SOURCE CENTER page with:
+- full source export
+- ZIP export
+- architecture export
+- docs export
+- module export
+
+FIRST PRODUCT:
+CORTEX BOOTSTRAP
+
+STACK:
+- Next.js
+- React
+- TypeScript
+- Fastify
+- PostgreSQL
+- Firebase
+- Redis
+- Qdrant
+- BullMQ
+- Socket.IO
+- Docker
+- Render
+
+CREATE:
+- Event Engine
+- Tenant Engine
+- Cortex Engine
+- Sentinel Engine
+- Genesis Panel
+- Source Center
+- ADR system
+- Full docs
